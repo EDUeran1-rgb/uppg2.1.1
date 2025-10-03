@@ -8,7 +8,7 @@
 <body>
     <?php 
         for($i=1; $i<=10;$i++){
-            echo "raden".$i."<br>";
+            echo "raden ".$i."<br>";
         };
     ?>
 </body>
